@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi, I'm Katherine...
 
-I am interested in any kind of database work. Especially Relatonal Algebra and Relational Calculus.
+I am interested in any kind of database work. Especially Relational Algebra and Relational Calculus.
 I am currently learning SQL with C++|C|Java|Perl|Python3: Triggers.
 You can reach me at aekateriniz@gmail.com 
