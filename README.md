@@ -8,6 +8,8 @@
 aekateriniz/aekateriniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Hi, I'm Katherine...
+
 I am interested in any kind of database work. Especially Relatonal Algebra and Relational Calculus.
 I am currently learning SQL with C++|C|Java|Perl|Python3: Triggers.
 You can reach me at aekateriniz@gmail.com 
