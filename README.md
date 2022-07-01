@@ -14,4 +14,4 @@ I am interested in any kind of database work. Especially Relational Algebra and 
 I am currently learning SQLite with C++ (Triggers).
 You can reach me at aekateriniz@gmail.com 
 
-I am new to GitHub...just learning.
+I am new to GitHub...just learning.☺
