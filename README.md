@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi, I'm Katherine...
 
-I am interested in any kind of database work. Especially Relational Algebra and Relational Calculus.
+I am interested in database work with Java or C or C++.
 I am currently learning Java
 You can reach me at aekateriniz@gmail.com 
 
