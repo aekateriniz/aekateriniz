@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 Hi, I'm Katherine...
 
 I am interested in any kind of database work. Especially Relational Algebra and Relational Calculus.
-I am currently learning SQLite with C++ (Triggers).
+I am currently learning Java
 You can reach me at aekateriniz@gmail.com 
 
 I am new to GitHub...just learning.☺
